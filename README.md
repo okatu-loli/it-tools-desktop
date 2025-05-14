@@ -4,3 +4,4 @@
 
 ## 下载
 见[release](https://github.com/okatu-loli/it-tools-desktop/releases)
+- [MacOS M系列芯片](https://github.com/okatu-loli/it-tools-desktop/releases/tag/macos-arm64)
